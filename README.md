@@ -1,9 +1,11 @@
 # MonoCon-KITTI-3D-Object-Detection
 
 <img width="1241" height="376" alt="000047" src="https://github.com/user-attachments/assets/5a37d43e-7a20-4bcd-afe3-45a651348321" />
-BEV : <img width="900" height="1100" alt="bev_000047" src="https://github.com/user-attachments/assets/d43de90c-3743-4900-95bc-0c27c20390b5" />
-BEV_GT :<img width="900" height="1100" alt="gt_000047" src="https://github.com/user-attachments/assets/60558946-e87f-4a9d-acae-320fc648ddab" />
-BEV_PRED : <img width="900" height="1100" alt="pred_000047" src="https://github.com/user-attachments/assets/0be99e3d-e70f-4788-9ad4-d608619134af" />
+<img width="300" height="366" alt="bev_000047" src="https://github.com/user-attachments/assets/d43de90c-3743-4900-95bc-0c27c20390b5" />
+<img width="300" height="366" alt="gt_000047" src="https://github.com/user-attachments/assets/60558946-e87f-4a9d-acae-320fc648ddab" />
+<img width="300" height="366" alt="pred_000047" src="https://github.com/user-attachments/assets/0be99e3d-e70f-4788-9ad4-d608619134af" />
+
+                  bev                                    bev_gt                                       bev_pred
 
 
 
