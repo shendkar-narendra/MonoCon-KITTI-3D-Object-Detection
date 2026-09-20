@@ -1,13 +1,12 @@
 ## ADD BEV VIEW for all three models
 
 # MonoCon-KITTI-3D-Object-Detection
-Ground Truth <img width="1242" height="375" alt="003705_gt" src="https://github.com/user-attachments/assets/f1bd2529-531f-46fe-b7ca-35e82304225f" />
-Prediction <img width="1242" height="375" alt="003705_pred" src="https://github.com/user-attachments/assets/9d3f913e-ee3f-49c8-b591-e034f774484c" />
-003705
 
-GT <img width="1242" height="375" alt="004489_gt" src="https://github.com/user-attachments/assets/f1c4c169-8289-4a0e-9b64-5cbd31ffe675" />
-Pred <img width="1242" height="375" alt="004489_pred" src="https://github.com/user-attachments/assets/9132c37c-76d2-43e4-b539-ed2c2e1bc007" />
-004489
+<img width="1241" height="376" alt="000047" src="https://github.com/user-attachments/assets/5a37d43e-7a20-4bcd-afe3-45a651348321" />
+BEV : <img width="900" height="1100" alt="bev_000047" src="https://github.com/user-attachments/assets/d43de90c-3743-4900-95bc-0c27c20390b5" />
+BEV_GT :<img width="900" height="1100" alt="gt_000047" src="https://github.com/user-attachments/assets/60558946-e87f-4a9d-acae-320fc648ddab" />
+BEV_PRED : <img width="900" height="1100" alt="pred_000047" src="https://github.com/user-attachments/assets/0be99e3d-e70f-4788-9ad4-d608619134af" />
+
 
 
 # MonoCon 3D Object Detection on KITTI
