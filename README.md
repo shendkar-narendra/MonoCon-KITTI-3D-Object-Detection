@@ -1,5 +1,3 @@
-## ADD BEV VIEW for all three models
-
 # MonoCon-KITTI-3D-Object-Detection
 
 <img width="1241" height="376" alt="000047" src="https://github.com/user-attachments/assets/5a37d43e-7a20-4bcd-afe3-45a651348321" />
