@@ -228,8 +228,6 @@ git clone https://github.com/shendkar-narendra/MonoCon-KITTI-3D-Object-Detection
 cd MonoCon-KITTI-3D-Object-Detection
 ```
 
-Replace `YOUR_USERNAME` with the GitHub account hosting the repository.
-
 ---
 
 ## 6.2 Create Python Environment
