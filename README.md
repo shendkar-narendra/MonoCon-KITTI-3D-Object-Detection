@@ -224,7 +224,7 @@ The experiment was run on a single GPU.
 ## 6.1 Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/MonoCon-KITTI-3D-Object-Detection.git
+git clone https://github.com/shendkar-narendra/MonoCon-KITTI-3D-Object-Detection.git
 cd MonoCon-KITTI-3D-Object-Detection
 ```
 
